@@ -1,5 +1,5 @@
 # Big Data Analytics HW2
-### M10515082 §õ¤¹Ùy
+### M10515082 æå…æ–Œ
 
 ## (1) 'max_depth' & 'min_child_weight'
 ![](https://i.imgur.com/z80hYdt.jpg) 
